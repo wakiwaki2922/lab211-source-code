@@ -1,0 +1,5 @@
+CSD203,Date Structure and Algorithm,January,10/05/2023,20/06/2023,35,New York,5200,CSD203.pdf
+ABC123,Introduction to Programming,March,15/07/2023,30/08/2023,36,San Francisco,4000,ABC123.pdf
+XYZ456,Database Management Systems,March,05/09/2023,15/10/2023,38,Los Angeles,3500,XYZ456.pdf
+DEF789,Artificial Intelligence,May,20/11/2023,31/12/2023,40,Boston,4800,DEF789.pdf
+GHI012,Web Development,November,05/03/2023,15/04/2023,30,Chicago,3000,GHI012.pdf

@@ -1,0 +1,4 @@
+1722,Giang,SE,giang@fpt.edu.vn,123598762,VN59686,Ho Chi Minh
+9876,Hoang,SB,hoang@fpt.edu.vn,987654321,VN12345,Ha Noi
+5432,Jane,MC,jane@fpt.edu.vn,543216789,VN67890,Da Nang
+1357,Tuong,SE,sarah@fpt.edu.vn,135792468,VN45678,Can Tho

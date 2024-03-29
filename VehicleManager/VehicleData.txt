@@ -1,0 +1,4 @@
+V00002,Honda Civic,Blue,22000.0,Honda,Sedan,2022
+V00003,Jeep Wrangler,Green,40000.0,Jeep,SUV,2021
+V00004,Ford Mustang,Red,35000.0,Ford,Coupe,2023
+V00005,Chevrolet Silverado,Black,45000.0,Chevrolet,Truck,2022
