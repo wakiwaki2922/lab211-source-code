@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CarPrj">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CarPrj.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
